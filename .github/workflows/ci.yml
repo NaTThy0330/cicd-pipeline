@@ -34,5 +34,5 @@ jobs:
         with:
           go-version: "1.26.0"
 
-      - name: Check formatting
-        run: test -z "$(gofmt -l $(git ls-files '*.go' | grep -v '^vendor/'))"
+      - name: Style
+        run: test -z $(go fmt ./...)
