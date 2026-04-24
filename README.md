@@ -1,5 +1,6 @@
 
-![https://github.com/NaTThy0330/cicd-pipeline/.github/workflows/ci.yml.badge.svg](IMAGE_URL)
+![CI](https://github.com/NaTThy0330/cicd-pipeline/actions/workflows/ci.yml/badge.svg)
+
 
 # learn-cicd-starter (Notely)
 
